@@ -62,35 +62,50 @@ D7 = X Y Z
 ### PROGRAM 
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Maha Vidya J P
+RegisterNumber: 23013441 
 */
 
+### CODE
 
+### ENCODER
 
+![Screenshot 2023-12-24 173101](https://github.com/Mahavidyajp/Experiment-08-Encoders-and-decoders-/assets/144870914/4935459f-e3d5-421d-9751-ac618a5e80f3)
 
+### DECODER
 
+![Screenshot 2023-12-24 173144](https://github.com/Mahavidyajp/Experiment-08-Encoders-and-decoders-/assets/144870914/0c3c1120-7c83-482a-a1ca-ef0f541c1223)
 
 ### RTL LOGIC  
 
+### ENCODER
 
+![image](https://github.com/Mahavidyajp/Experiment-08-Encoders-and-decoders-/assets/144870914/27485317-6cb8-41f3-9a9a-200e7dc9a14a)
 
+### DECODER
 
-
-
-
-
-### TIMING DIGRAMS  
-
-
-
-
+![image](https://github.com/Mahavidyajp/Experiment-08-Encoders-and-decoders-/assets/144870914/ab63cadc-8a25-4e7c-afef-84142dce209f)
 
 ### TRUTH TABLE 
 
+### ENCODER
 
+![image](https://github.com/Mahavidyajp/Experiment-08-Encoders-and-decoders-/assets/144870914/6283fa44-f4f0-457f-9221-ab529559c4fe)
 
+### DECODER
 
+![image](https://github.com/Mahavidyajp/Experiment-08-Encoders-and-decoders-/assets/144870914/8d6ee27f-bce1-448b-9bbc-a7d185c39fa2)
 
+### TIMING DIGRAMS  
+
+### ENCODER
+
+![image](https://github.com/Mahavidyajp/Experiment-08-Encoders-and-decoders-/assets/144870914/fb533307-29bc-40f1-acdc-61f3114c07ad)
+
+### DECODER
+
+![image](https://github.com/Mahavidyajp/Experiment-08-Encoders-and-decoders-/assets/144870914/b4e2be5b-af03-4a8b-9dee-289a79450913)
 
 ### RESULTS 
+
+Thus the program to desing encoder and decoder is done.
